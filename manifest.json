@@ -1,0 +1,27 @@
+{
+  "name": "4k Hub",
+  "version": "9.0.0",
+  "scrapers": [
+    {
+      "id": "Direct",
+      "name": "mkv",
+      "description": "inks",
+      "version": "1.0.0",
+      "author": "Direct",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/4khub_nuvio_php_api.js",
+      "enabled": true,
+      "formats": [
+        "mkv",
+        "mp4"
+      ],
+      "logo": "",
+      "contentLanguage": [
+        "hi",
+        "en"
+      ]
+    }
+  ]
+}
