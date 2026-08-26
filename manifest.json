@@ -11,7 +11,7 @@
       "supportedTypes": [
         "tv"
       ],
-      "filename": "providers/4khub_nuvio_php_api.js",
+      "filename": "proviers/4khub_nuvio_php_api.js",
       "enabled": true,
       "formats": [
         "mkv",
