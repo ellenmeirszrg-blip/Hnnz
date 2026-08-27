@@ -1,6 +1,6 @@
 {
-  "name": "4k Hub",
-  "version": "9.1.0",
+  "name": "HD HUB",
+  "version": "9.5.0",
   "scrapers": [
     {
       "id": "HDHub",
