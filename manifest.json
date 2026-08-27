@@ -9,7 +9,9 @@
       "version": "1.0.0",
       "author": "Direct",
       "supportedTypes": [
-        "tv","movie"],
+         "movie",
+        "tv"
+      ],
       "filename": "proviers/4khub_nuvio_php_api.js",
       "enabled": true,
       "formats": [
