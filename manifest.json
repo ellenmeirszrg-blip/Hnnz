@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "author": "Direct",
       "supportedTypes": [
-         "movie",
+        "movie",
         "tv"
       ],
       "filename": "proviers/4khub_nuvio_php_api.js",
@@ -19,6 +19,27 @@
         "mp4"
       ],
       "logo": "",
+      "contentLanguage": [
+        "hi",
+        "en"
+      ]
+    },
+    {
+      "id": "StreamTape",
+      "name": "StreamTape",
+      "description": "SkyMoviesHD StreamTape",
+      "version": "1.0.0",
+      "author": "Direct",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "proviers/sky.js",
+      "enabled": true,
+      "formats": [
+        "mkv",
+        "mp4"
+      ],
+      "logo": "https://skymovieshd.forex/images/favicon.ico",
       "contentLanguage": [
         "hi",
         "en"
