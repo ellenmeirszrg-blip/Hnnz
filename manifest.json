@@ -1,7 +1,29 @@
 {
   "name": "4k Hub",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "scrapers": [
+    {
+      "id": "HDHub",
+      "name": "4K Hub",
+      "description": "4KHDHub Pixeldrain + HubCloud Resolver",
+      "version": "1.1.0",
+      "author": "Direct",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "proviers/ohjalf.js",
+      "enabled": true,
+      "formats": [
+        "mkv",
+        "mp4"
+      ],
+      "logo": "",
+      "contentLanguage": [
+        "hi",
+        "en"
+      ]
+    },
     {
       "id": "Direct",
       "name": "mkv",
